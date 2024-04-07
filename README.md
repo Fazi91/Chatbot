@@ -1,6 +1,8 @@
 #our cod is executed  with : python mymain.py --action list  
 #you can write and see answer(from csv file): ostfalia or wintersemster 
+
 #you can write and see answer(from code): ostfalia? or wintersemester?
+
 #you can write and see answer(from code and csv file): ostfali , wintersemester ( , is important and reoetitive question)
 #you can write and see answer(from code): trivia (start QuizApp)
 #you can write and see answer: clausthal event (from csv file. )
